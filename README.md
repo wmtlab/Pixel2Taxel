@@ -4,7 +4,7 @@ This repository is dedicated to storing data for V-Touching.
 ## Usage
 1. First, launch Unity and open the project directory `TouchMaterialServer`. The project interface will be displayed in Unity.
 
-2. Drag the directory `resylt_Database` into the "Project" column:
+2. Drag the directory `result_Database` into the "Project" column:
    <div align="center">
        <img src="Data/usage/drag_postion.png" alt="Figure 1" />
    </div>

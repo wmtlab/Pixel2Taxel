@@ -17,8 +17,6 @@ Result_Data
 ```
 
 ## Usage for V-Touching
-正如我们的论文里所提到的，在V-Touching中，我们可以加载这些数据以体验此VR引用。因此，我们上传了**Result_Data**在[V-Touching](https://github.com/wmtlab/V-Touching)中的用法[usage](./Result_Data/README.md)。
-
 In the [V-Touching](https://github.com/wmtlab/V-Touching), as mentioned in our paper, we can load this **Result_Data** to experience this VR application.
 Therefore, we have uploaded the [usage of Result_Data](./Result_Data/README.md) in V-Touching.
 

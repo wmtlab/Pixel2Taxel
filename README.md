@@ -53,9 +53,9 @@ If you want to run our code, please install the required dependencies first by e
     ```
 3. If successful, the terminal will print:
     ```
-    Succeed! The result of warpPerspective is in the folder:  Raw_Data\2\out\transform
-    Succeed! The result of crop is in the folder:  Raw_Data\2\out\transform
-    Succeed! The final result is in the folder:  Raw_Data\2\out\smooth_ceramic_tile
+    Succeed! The result of warpPerspective is in the folder:  Raw_Data\1\out\transform
+    Succeed! The result of crop is in the folder:  Raw_Data\1\out\transform
+    Succeed! The final result is in the folder:  Raw_Data\1\out\smooth_ceramic_tile
     ```
 
 ## Citation

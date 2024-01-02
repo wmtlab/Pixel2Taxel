@@ -21,7 +21,9 @@ In the [V-Touching](https://github.com/wmtlab/V-Touching), as mentioned in our p
 Therefore, we have uploaded the [usage of Result_Data](./Result_Data/README.md) in V-Touching.
 
 ## Raw Data
-We provide the [download link](https://drive.google.com/file/d/1Nb5QZbwzmNZzgtV51yKvVxLK2R32QKhV/view?usp=drive_link) for the raw data, and its structure is as follows:
+
+
+We provide the <a href="#download_link">download link</a> for the raw data, and its structure is as follows:
 ```bash
 Raw_Data
 +-- 1
@@ -35,6 +37,14 @@ Raw_Data
 +-- name.json # Index to name mapping
 +-- PerspectiveTransform1/2.npy # Perspective transformation matrices
 ```
+
+<h3 id="downloda_link">downloda link:</h3>
+
+1. [Google Drive](https://drive.google.com/file/d/1Nb5QZbwzmNZzgtV51yKvVxLK2R32QKhV/view?usp=drive_link)
+2. [Baidu Netdisk](https://pan.baidu.com/s/12ih3tPbuMlzeiUN4M86ndA?pwd=sb3d) 
+3. [our server (only 2Mbit/s)](https://www.wmt-lab.com/wp-content/uploads/1703/65/Pixel2Taxel.zip)
+
+
 
 ## Process_Code
 1. We have uploaded the [code](Process_Code)  for processing the raw data.
@@ -68,5 +78,4 @@ If you want to run our code, please install the required dependencies first by e
   year={2023}
 }
 ```
-
 

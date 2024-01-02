@@ -1,7 +1,7 @@
 # [Toward Spatial Temporal Consistency of Joint Visual Tactile Perception in VR Applications](https://arxiv.org/abs/2312.16391)
 
 ## Introduction
-We propose a new data collection system, which scans the visual and tactile information across various textures simultaneously and establish a spatiotemporal mapping between visual and tactile signals based on coordinates. The developed scheme enables the creation of a spatially consistent visual-tactile datasets. You can find more details in the [paper]([link](https://arxiv.org/abs/2312.16391)).
+We propose a new data collection system, which scans the visual and tactile information across various textures simultaneously and establish a spatiotemporal mapping between visual and tactile signals based on coordinates. The developed scheme enables the creation of a spatially consistent visual-tactile datasets. You can find more details in the [paper](https://arxiv.org/abs/2312.16391).
 
 
 ## Result_Data

@@ -21,7 +21,7 @@ In the [V-Touching](https://github.com/wmtlab/V-Touching), as mentioned in our p
 Therefore, we have uploaded the [usage of Result_Data](./Result_Data/README.md) in V-Touching.
 
 ## Raw Data
-We provide the [download link](https://drive.google.com/file/d/1dyjluW00Z5RIfV7Saul47CdEo3FqGSM0/view?usp=drive_link) for the raw data, and its structure is as follows:
+We provide the [download link](https://drive.google.com/file/d/1Nb5QZbwzmNZzgtV51yKvVxLK2R32QKhV/view?usp=drive_link) for the raw data, and its structure is as follows:
 ```bash
 Raw_Data
 +-- 1
@@ -42,7 +42,7 @@ If you want to run our code, please install the required dependencies first by e
     ```bash
     pip install -r Process_Code\requirements.txt
     ```
-2. Next, you can download the [raw data](https://drive.google.com/file/d/1dyjluW00Z5RIfV7Saul47CdEo3FqGSM0/view?usp=drive_link) and extract it so that the Raw_Data folder is at the same level as the Process_Code folder. Then, you can execute the command in the terminal:
+2. Next, you can download the [raw data](https://drive.google.com/file/d/1Nb5QZbwzmNZzgtV51yKvVxLK2R32QKhV/view?usp=drive_link) and extract it so that the Raw_Data folder is at the same level as the Process_Code folder. Then, you can execute the command in the terminal:
     ```python
     python Process_Code\run.py --root=Raw_Data --index=1 
     ```

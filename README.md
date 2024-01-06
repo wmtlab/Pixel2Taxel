@@ -23,7 +23,7 @@ Therefore, we have uploaded the [usage of Result_Data](./Result_Data/README.md) 
 ## Raw Data
 
 
-We provide the [download link](#downloda_link) for the raw data, and its structure is as follows:
+We provide the [download link](#download_link) for the raw data, and its structure is as follows:
 ```bash
 Raw_Data
 +-- 1
@@ -38,12 +38,12 @@ Raw_Data
 +-- PerspectiveTransform1/2.npy # Perspective transformation matrices
 ```
 
-<a name="downloda_link"></a>
-**downloda_link**
+<a name="download_link"></a>
+**download_link**
 
 1. [Google Drive](https://drive.google.com/file/d/1Nb5QZbwzmNZzgtV51yKvVxLK2R32QKhV/view?usp=drive_link)
 2. [Baidu Netdisk](https://pan.baidu.com/s/12ih3tPbuMlzeiUN4M86ndA?pwd=sb3d) 
-3. [our server (only 2Mbit/s)](https://www.wmt-lab.com/wp-content/uploads/1703/65/Pixel2Taxel.zip)
+3. [Our server (only 2Mbit/s)](https://www.wmt-lab.com/wp-content/uploads/1703/65/Pixel2Taxel.zip)
 
 
 

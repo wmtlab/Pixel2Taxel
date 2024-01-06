@@ -72,7 +72,7 @@ If you want to run our code, please install the required dependencies first by e
 ## Citation
 
 ```
-@inproceedings{zhao2023toward,
+@inproceedings{zhao2024toward,
   title={Toward Spatial Temporal Consistency of Joint Visual Tactile Perception in VR Applications},
   author={Zhao, Fuqiang and Zhang, Kehan and Liu, Qian and Lyu, Zhuoyi},
   booktitle={2024 IEEE haptics symposium (HAPTICS)},

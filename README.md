@@ -17,7 +17,7 @@ Result_Data
 ```
 
 ## Usage for V-Touching
-In the [V-Touching](https://github.com/wmtlab/V-Touching-Texture), as mentioned in our paper, we can load this **Result_Data** to experience this VR application.
+In the [V-Touching](https://github.com/wmtlab/V-Touching/tree/V-TouchingVer1.0.0), as mentioned in our paper, we can load this **Result_Data** to experience this VR application.
 Therefore, we have uploaded the [usage of Result_Data](./Result_Data/README.md) in V-Touching.
 
 ## Raw Data

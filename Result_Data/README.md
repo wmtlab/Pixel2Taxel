@@ -1,5 +1,5 @@
 # Introduction
-This README is intended to describe how to use the **Result_Data** in [V-Touching](https://github.com/wmtlab/V-Touching/tree/V-TouchingVer1.0.0).
+This README is intended to describe how to use the **Result_Data** in [V-Touching](https://github.com/wmtlab/V-Touching/tree/1.0).
 
 # Usage for V-Touching (In Unity)
 1. First, launch Unity and open the project directory `TouchMaterialServer`. The project interface will be displayed in Unity.
